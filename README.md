@@ -1,13 +1,23 @@
 # LumisPomodoro — Privacy Policy
 
-![Lumi con temporizador](Chica%20anime%20abrazando%20un%20tomate%20temporizador.png)
+<p align="center">
+  <img src="Chica%20anime%20abrazando%20un%20tomate%20temporizador.png" alt="Lumi con temporizador" width="280" style="border-radius: 12px;">
+</p>
 
-**Privacy Policy & Terms / Política de Privacidad y Términos**
+<p align="center">
+  <b>Privacy Policy & Terms / Política de Privacidad y Términos</b><br>
+  Select your language / Selecciona tu idioma:
+</p>
 
-Select your language / Selecciona tu idioma:
-
-[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=googletranslate)](#english-version)
-[![Español](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-green?style=for-the-badge&logo=googletranslate)](#versión-en-español)
+<p align="center">
+  <a href="#english-version">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=googletranslate" alt="English">
+  </a>
+  &nbsp;
+  <a href="#versión-en-español">
+    <img src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-green?style=for-the-badge&logo=googletranslate" alt="Español">
+  </a>
+</p>
 
 ---
 
@@ -87,4 +97,6 @@ Si tienes alguna pregunta o sugerencia sobre nuestra Política de Privacidad, no
 
 ---
 
-© 2026 **Lumis Studio** — Todos los derechos reservados.
+<p align="center">
+  © 2026 <b>Lumis Studio</b> — Todos los derechos reservados.
+</p>
